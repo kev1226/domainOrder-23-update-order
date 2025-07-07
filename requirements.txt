@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn
+ariadne
+pymongo
+python-dotenv
+pyjwt
